@@ -2,3 +2,4 @@ git user test
 git update file
 add new a line
 master add new a line
+add newBranch add new line
